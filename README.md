@@ -9,3 +9,8 @@ rails s
 ```
 
 Requires Ruby 1.9.2 or later to run.
+
+
+
+##License
+http://rsedighi.mit-license.org
